@@ -4,3 +4,4 @@ c=a+b
 print(c)
 print("Hello GitHub Actions!")
 print("CI/CD is working!")
+print("hello")
